@@ -100,6 +100,7 @@ img {
 
 .washing-mode-info {
   position: relative;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
 }
 
 .washing-mode-controller {
@@ -182,5 +183,5 @@ img {
 }
 
 .start-button:hover {
-  transform: translateY(30%);
+  transform: translateY(45%);
 }
